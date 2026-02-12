@@ -1,4 +1,10 @@
 
+
+
+
+
+
+
 123 Making a change.
 
 
@@ -127,3 +133,6 @@
 A
 Making changes on GitHub.
 Hello This is me .
+=======
+Making a Change. 123
+>>>>>>> 36b50db39d244d6a2db7962fe6ff7cfb48d12c70
